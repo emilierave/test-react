@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   const handleOpenAlert = () => {
-    alert('Hello react')
+    alert('hello react')
   }
   return (
       <div className="App">
