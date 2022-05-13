@@ -16,7 +16,7 @@ function App() {
           <button onClick={handleOpenAlert}>Open alert</button>
           <a
               className="App-link"
-              href="https://github.com/emilierave"
+              href="https://github.com/emilierave/test-react"
               target="_blank"
               rel="noopener noreferrer"
           >
